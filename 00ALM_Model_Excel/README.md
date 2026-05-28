@@ -141,10 +141,11 @@ Most student or portfolio Excel models pick one or two metrics and hardcode the 
 
 ```
 excel-model/
-├── MAJOR_EUROPEAN_GSIB_ALM_Model_v10.xlsx   ← Full working model
-├── ALM_Master_Model_Showcase_v12.pdf        ← Full showcase (cover, summary, all sections)
-├── README.md                                 ← This file
-└── LICENSE.txt                               ← CC BY-NC 4.0
+├── MAJOR_EUROPEAN_GSIB_ALM_Model_v10.xlsx        ← Full working model (Excel)
+├── MAJOR_EUROPEAN_GSIB_ALM_Model_v10.pdf         ← Full printed model — all sheets, all sections (PDF)
+├── ALM_Master_Model_Showcase_v12.pdf             ← Visual showcase (cover, summary, key outputs)
+├── README.md                                      ← This file
+└── LICENSE.txt                                    ← CC BY-NC 4.0
 ```
 
 ---
