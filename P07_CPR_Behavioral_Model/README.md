@@ -14,7 +14,7 @@ Under **EBA/GL/2022/14 (IRRBB Guidelines)**, banks must model borrower behaviour
 
 ## 3. Balance Sheet Summary
 
-All figures in EUR millions. Reference year: 2026F. Tier 1 Capital: **€132,173m** (CET1 €109,924m + AT1 €22,249m).
+All figures in EUR millions. Reference year: 2026F. Tier 1 Capital: **€132,173m** (CET1 €114,129m + AT1 €18,044m).
 
 **Loan Portfolio (Engine sheet):**
 

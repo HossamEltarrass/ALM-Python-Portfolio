@@ -50,8 +50,8 @@ The **Leverage Ratio** requirement (Basel III / CRR2 Art.429) sets a minimum of 
 
 | Item | Value (€m) |
 |---|---|
-| CET1 Capital | 109,924 |
-| AT1 Capital | 22,249 |
+| CET1 Capital | 114,129 |
+| AT1 Capital | 18,044 |
 | Tier 1 Capital | 132,173 |
 | Total Leverage Exposure | 2,500,000 |
 
@@ -115,11 +115,11 @@ MDA Buffer(t) = CET1 Ratio(t) − 9.50%
 
 | Year | CET1 Capital (€m) | RWA (€m) | CET1 Ratio | MDA Buffer | RAG |
 |---|---|---|---|---|---|
-| 2025A | 109,924 | 724,942 | **15.74%** | **+6.24pp** | GREEN |
-| 2026F | 115,521 | 753,940 | 15.32% | +5.82pp | GREEN |
-| 2027F | 121,342 | 784,182 | 15.47% | +5.97pp | GREEN |
-| 2028F | 127,396 | 815,749 | 15.62% | +6.12pp | GREEN |
-| 2029F | 133,692 | 848,379 | **15.76%** | **+6.26pp** | GREEN |
+| 2025A | 114,129 | 724,942 | **15.74%** | **+6.24pp** | GREEN |
+| 2026F | 119,726 | 753,939 | 15.88% | +6.38pp | GREEN |
+| 2027F | 125,546 | 784,097 | 16.01% | +6.51pp | GREEN |
+| 2028F | 131,600 | 815,461 | 16.14% | +6.64pp | GREEN |
+| 2029F | 137,896 | 848,079 | **16.26%** | **+6.76pp** | GREEN |
 
 > **Note:** The 2025A CET1 ratio of 15.74% and MDA buffer of +6.24pp reflect the confirmed actuals. The drift over the forecast period is +0.52pp (2025A to 2029F), as RWA growth consumes a significant portion of retained earnings each year.
 
@@ -129,9 +129,9 @@ MDA Buffer(t) = CET1 Ratio(t) − 9.50%
 |---|---|---|---|---|
 | 2025A | 132,173 | 5.29% | +1.79pp | GREEN |
 | 2026F | 137,770 | 5.35% | +1.85pp | GREEN |
-| 2027F | 143,591 | 5.41% | +1.91pp | GREEN |
-| 2028F | 149,645 | 5.48% | +1.98pp | GREEN |
-| 2029F | 155,941 | 5.54% | +2.04pp | GREEN |
+| 2027F | 143,590 | 5.41% | +1.91pp | GREEN |
+| 2028F | 149,644 | 5.48% | +1.98pp | GREEN |
+| 2029F | 155,940 | 5.54% | +2.04pp | GREEN |
 
 **No regulatory breach in any metric in any year. All RAG ratings: GREEN**
 
@@ -141,7 +141,7 @@ MDA Buffer(t) = CET1 Ratio(t) − 9.50%
 
 **1. The bank is self-capitalising.** Under base assumptions, the CET1 ratio drifts upward by +0.52pp over four years (2025A to 2029F). Retained earnings outpace RWA growth in absolute terms, gently compounding the capital buffer.
 
-**2. RWA growth consumes the majority of retained earnings.** Of earnings retained over four years, the bulk is absorbed by the RWA treadmill. Only a modest portion represents true organic buffer build above what is needed to service balance sheet growth.
+**2. RWA growth consumes the majority of retained earnings.** Of the €23,768m retained over four years, €19,639m (82.6%) is absorbed by the RWA treadmill just to hold the CET1 ratio flat against €123bn of cumulative RWA growth. Only €4,129m (17.4%) represents true organic buffer build above what is needed to service balance sheet growth.
 
 **3. Leverage ratio is not the binding constraint.** The bank maintains 1.8–2.0pp headroom above the G-SIB floor throughout the forecast. The CET1 MDA buffer is structurally tighter in relative terms.
 
